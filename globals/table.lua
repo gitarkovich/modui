@@ -212,7 +212,7 @@
         ['Ghost Wolf']                = {[[Interface\Icons\Spell_nature_spiritwolf]], 3},
         ['Healing Wave']              = {[[Interface\Icons\Spell_nature_healingwavegreater]], 2.5},
         ['Lesser Healing Wave']       = {[[Interface\Icons\Spell_nature_healingwavelesser]], 1.5},
-        ['Lightning Bolt']            = {[[Interface\Icons\Spell_nature_lightning]], 3},
+        ['Молния']            = {[[Interface\Icons\Spell_nature_lightning]], 3},
             -- WARLOCK
         ['Banish']                    = {[[Interface\Icons\Spell_shadow_cripple]], 1.5},
         ['Create Firestone']          = {[[Interface\Icons\Inv_misc_gem_bloodstone_02]], 3},
